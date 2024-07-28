@@ -1,7 +1,20 @@
 {
-   "scripts": {
-  "build": "vite build"
-   },
+   "name": "mini-project",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.3.4",
+    "@vitejs/plugin-react": "^3.1.0"
+  },
 
   "name": "mini-project",
   "private": true,
