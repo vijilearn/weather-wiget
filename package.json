@@ -1,7 +1,7 @@
 {
    "scripts": {
   "build": "vite build"
-   }
+   },
 
   "name": "mini-project",
   "private": true,
